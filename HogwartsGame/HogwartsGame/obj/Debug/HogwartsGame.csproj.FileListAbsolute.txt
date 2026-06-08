@@ -1,0 +1,7 @@
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\bin\Debug\HogwartsGame.exe.config
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\bin\Debug\HogwartsGame.exe
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\bin\Debug\HogwartsGame.pdb
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\obj\Debug\HogwartsGame.csproj.AssemblyReference.cache
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\obj\Debug\HogwartsGame.csproj.CoreCompileInputs.cache
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\obj\Debug\HogwartsGame.exe
+C:\Users\syeda\source\repos\HogwartsGame\HogwartsGame\obj\Debug\HogwartsGame.pdb
